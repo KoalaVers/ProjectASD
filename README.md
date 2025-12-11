@@ -6,10 +6,10 @@ Meskipun sederhana, sistem ini mengimplementasikan konsep dasar Struktur Data da
 
 
 # Nama Anggota Kelompok
-Annisa Balqis Kusuma Putri  NPM 2410631250005
-Kintan Dyah Astuti          NPM 2410631250095
-Akbar Tri Putranto          NPM 2410631250002
-Raynaldi Dwi Arnanto        NPM 2410631250072
+- Annisa Balqis Kusuma Putri  
+- Kintan Dyah Astuti          
+- Akbar Tri Putranto          
+- Raynaldi Dwi Arnanto       
 
 # Fitur Utama Sistem
 1. Lapor Kehilangan Barang (Lost Information)
